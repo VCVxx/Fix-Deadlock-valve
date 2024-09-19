@@ -1,0 +1,13 @@
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\bin\Release\net6.0\MDSAYS_FIX.exe
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\bin\Release\net6.0\MDSAYS_FIX.deps.json
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\bin\Release\net6.0\MDSAYS_FIX.runtimeconfig.json
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\bin\Release\net6.0\MDSAYS_FIX.dll
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\bin\Release\net6.0\MDSAYS_FIX.pdb
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.AssemblyInfoInputs.cache
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.AssemblyInfo.cs
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.csproj.CoreCompileInputs.cache
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.dll
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.pdb
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.genruntimeconfig.cache
+C:\Users\rentm\source\repos\MDSAYS DEADLOCK CRASH FIX\MDSAYS DEADLOCK CRASH FIX\obj\Release\net6.0\MDSAYS_FIX.csproj.Fody.CopyLocal.cache
